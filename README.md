@@ -7,6 +7,6 @@ This repository is dedicated to receiving and reviewing enhancement request subm
 
 [View existing requests](https://github.com/orgs/emory-libraries/projects/11)
 
-[Submit a new request directly](https://github.com/emory-libraries/archivestech-enhance/issues/new?template=feature_request.md))
+[Submit a new request directly](https://github.com/emory-libraries/archivestech-enhance/issues/new?template=feature_request.md)
 
 Learn more about how to submit and review enhancement requests
