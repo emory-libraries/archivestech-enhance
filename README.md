@@ -5,8 +5,8 @@ Welcome to the enhancement request repository for {product name}!
 
 This repository is dedicated to receiving and reviewing enhancement request submissions.
 
-View existing requests
+[View existing requests](https://github.com/orgs/emory-libraries/projects/11)
 
-Submit a new request directly
+[Submit a new request directly](https://github.com/emory-libraries/archivestech-enhance/issues)
 
 Learn more about how to submit and review enhancement requests
