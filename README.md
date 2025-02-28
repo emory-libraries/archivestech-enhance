@@ -1,7 +1,7 @@
 # archivestech-enhance
 
 
-Welcome to the enhancement request repository for {product name}!
+Welcome to the enhancement request repository for Aeon and ArchivesSpace!
 
 This repository is dedicated to receiving and reviewing enhancement request submissions.
 
