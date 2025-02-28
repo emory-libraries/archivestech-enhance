@@ -3,7 +3,7 @@
 
 Welcome to the enhancement request repository for Emory's instances of Aeon and ArchivesSpace!
 
-This repository is dedicated to receiving and reviewing enhancement request submissions. To report a problem, please continue to use the [issue reporting form](https://emory.libwizard.com/f/archivesissuereporting) for ArchivesSpace and Aeon.  
+This repository is dedicated to receiving and reviewing enhancement request submissions. To report a problem, please continue to use the [issue reporting form](https://emory.libwizard.com/f/archivesissuereporting).  
 
 [View existing requests](https://github.com/orgs/emory-libraries/projects/11)
 
